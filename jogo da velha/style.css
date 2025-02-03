@@ -56,6 +56,6 @@ h1 {
 }
 @media screen and (max-width: 1200px) {
     body {
-        width: 676px;
+        width: 300px;
     }
 }
