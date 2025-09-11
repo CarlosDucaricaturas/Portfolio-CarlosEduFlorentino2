@@ -56,19 +56,11 @@ h1 {
 }
 @media screen and (max-width: 650px) {
     body {
-        width: 680px;
+        width: 600px;
     }
-    body {
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-     background-image: url(./fundo\ vovós.jpg);
-    background-position: center;
-     background-repeat: no-repeat;
-     background-size: 1020px 580px;
-    }
+    
 }
+
 
 
 
